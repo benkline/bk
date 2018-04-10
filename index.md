@@ -7,8 +7,8 @@
 #
 layout: home
 ---
-# I <img class="emoji" title=":heart:" alt=":heart:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/2764.png" height="20" width="20" align="absmiddle"> Boise
+Hi, I am Ben Kline, a freelance developer, instructional designer, and multimedia producer. This is my portfolio and blog site; thanks for visiting! I hope you'll learn a bit about me and then contact me about a project or position you think I might be a good fit for.
 
-## Site currently under construction for reformatting - please check back in a day or so :) 
+### Site currently under construction for reformatting - please excuse the mess.
 
-See the nav links above for my portfolio of past work<img class="emoji" title=":point_up:" alt=":point_up:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/261d.png" height="20" width="20" align="absmiddle"> and the blog posts below for how-to's, #verylocalnews, and what I am working on now<img class="emoji" title=":point_down:" alt=":point_down:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f447.png" height="20" width="20" align="absmiddle">
+Contact me with any of the methods below :)

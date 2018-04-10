@@ -3,7 +3,7 @@ author: Ben Kline
 email: ben.kline@gmail.com
 phone: 208-409-3025
 description: > # this means to ignore newlines until "twitter_username:"
-  Hi, I am Ben Kline, a freelance developer, instructional designer, and multimedia producer. This is my portfolio and blog site, thanks for visiting! I hope you'll learn a bit about me and then contact me about a project you may want some help on. :)
+
 
 # social links
 twitter_username: boisebenkline
@@ -30,8 +30,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+date_format: "%b %-d, %Y"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
