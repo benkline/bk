@@ -4,12 +4,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link rel="stylesheet" type="text/css" href="/assets/semantic/dist/semantic.min.css">
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/semantic/dist/semantic.min.css" | relative_url }}">
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.1/css/tachyons.min.css"/>
+  <link rel="shortcut icon" type="image/png" href="{{ "/assets/favicon.png" | relative_url }}">
   <script
     src="https://code.jquery.com/jquery-3.1.1.min.js"
     integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
     crossorigin="anonymous"></script>
-  <script src="/assets/semantic/dist/semantic.min.js"></script>
+  <script src="{{ "/assets/semantic/dist/semantic.min.js" | relative_url }}"></script>
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
