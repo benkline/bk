@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Jekyll + Semantic UI + Netlify = Quick and Awesome Websites."
+title: "Jekyll + Semantic UI + Netlify = Quick and Clean Websites."
 categories: developer
 ---
+
+Three Open Source Resources come together to accomplish just about everything you need; fast, secure, and awesome!  
 
 ## [Jekyll](https://jekyllrb.com/)
 Jekyll is a static site generator. That is, you get to write your websites using all kinds of shortcuts like css pre-processors, templates, variables, and other nerdy stuff - but then just generate static websites for really simple and fast hosting. For simple sites like this, it is perfect!
