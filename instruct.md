@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Instructional Design
-permalink: /instructional-design/
+permalink: /instructional-designer/
+icon: pencil
 ---
 
 # Coming soon

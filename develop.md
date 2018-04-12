@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Web Applications Development
+title: Web Apps Development
 permalink: /web-developer/
+icon: code
 ---
 
 # Coming soon
