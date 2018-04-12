@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Mutlimedia Production
-permalink: /multimedia/
+title: Multimedia Production
+permalink: /multimedia-producer/
+icon: play circle
 ---
 
 # Coming soon!
