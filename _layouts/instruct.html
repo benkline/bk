@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.ids.size > 0 -%}
+    <ul class="post-list">
+      {%- for id in site.ids -%}
+      <li class="ui segment post-card">
+        {%- assign date_format = site.date_format -%}
+        <h3>
+          <a class="post-link" href="{{ id.url | relative_url }}">
+            {{ id.title | escape }}
+          </a>
+          <span class="post-meta">{{ id.date | date: date_format }}</span>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ id.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>

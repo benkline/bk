@@ -4,6 +4,16 @@ email: ben.kline@gmail.com
 phone: 208-409-3025
 description: > # this means to ignore newlines until "twitter_username:"
 
+collections:
+- posts
+- apps
+- ids
+- media
+
+collections_dir: collections
+
+google:
+  analytics: "UA-74219264-1"
 
 # social links
 twitter_username: boisebenkline
