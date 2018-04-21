@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.apps.size > 0 -%}
+    <ul class="post-list">
+      {%- for app in site.apps -%}
+      <li class="ui blue segment post-card">
+        {%- assign date_format = site.date_format -%}
+        <h3>
+          <a class="post-link" href="{{ app.url | relative_url }}">
+            {{ app.title | escape }}
+          </a>
+          <span class="post-meta">{{ app.date | date: date_format }}</span>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ app.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+
+</div>

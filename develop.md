@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: develop
 title: Web Apps Development
-permalink: /web-developer/
+permalink: /developer/
 icon: code
 ---
-
-# Coming soon
