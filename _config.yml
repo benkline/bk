@@ -5,10 +5,16 @@ phone: 208-409-3025
 description: > # this means to ignore newlines until "twitter_username:"
 
 collections:
-- posts
-- apps
-- ids
-- media
+  posts:
+    output: true
+  apps:
+    output: true
+  ids:
+    output: true
+  media:
+    output: true
+  videos:
+    
 
 collections_dir: collections
 
