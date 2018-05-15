@@ -8,15 +8,15 @@
 layout: home
 ---
 
-# Hi!
+## Hi! :smiley:
 
-I'm Ben Kline, a freelance developer, instructional designer, and multimedia producer. This is my portfolio and blog site. Thanks for visiting!
+I'm Ben Kline, a freelance developer, instructional designer, and multimedia producer.
 
-I hope you'll learn a bit about me and then contact me about a project or position you think I might be a good fit for.
+This is my portfolio and blog site. Thanks for visiting!
 
-My portfolio of work is available via the above menu, sorted by the types of work I do. The blog posts below are a mix of what I find of interesting -- like developer how-to's, musings, ramblings, diatribes, and maybe a short story or two.
+I hope you'll learn a bit about me any my work, and then contact me about a project or position you think I might be a good fit for.
+
+My portfolio of work is available via the above menu. The blog posts below are a mix of what I find of interesting -- like developer how-to's, musings, ramblings, diatribes, and maybe a short story or two.
+
 
 Please feel free to contact me via any of the methods available in the footer below!
-
-<h1 class="tc"><img class="emoji" title=":smiley:" alt=":smiley:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f603.png" height="30" width="30" align="absmiddle">
-</h1>
