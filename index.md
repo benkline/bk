@@ -8,7 +8,7 @@
 layout: home
 ---
 
-## Hi! :smiley:
+# Hi! :smiley:
 
 I'm Ben Kline, a freelance developer, instructional designer, and multimedia producer.
 
