@@ -14,9 +14,3 @@ Semantic UI is a set of javascript and css modules that let you build an awesome
 
 ## [Netlify](https://www.netlify.com/)
 The secret sauce to bring it all together.
-
-
-### How-To
-Coming soon!
-
-I'm writing up the how-to now; contact me via any of the methods below and I will let you know when it's up.
