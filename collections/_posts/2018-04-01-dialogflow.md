@@ -9,8 +9,4 @@ categories: developer
 
 This blog is a deeper dive into [DialogFlow](https://dialogflow.com/), the Natural Language Processor from Google that powers the Google Assistant.
 
-## DialogFlow
-
-Coming soon!
-
-I'm writing up the how-to now; contact me via any of the methods below and I will let you know when it's up.
+# Dialog Flow
