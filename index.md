@@ -12,13 +12,13 @@ layout: home
 
 I'm Ben Kline, a freelance developer, instructional designer, and multimedia producer.
 
-This is a quick little bio-site. Thanks for visiting!
-
-If you need help with anything or know of a project or position you think I might be a good fit for, feel free to contact me via any of the social media methods available in the footer below - or just start chatting with my Chatbot below. The bot will let me know you're here and I will join the conversation as soon as I can.  
-
 ## Thanks for being here!
 
-<div class="ui raised centered text container segment">
+This is a quick little bio-site. Thanks for visiting!
+
+If you need help with anything or know of a project or position you think I might be a good fit for, feel free to contact me via any of the methods available in the footer below - **or just start chatting with BK-Bot, my Chatbot**. It will let me know you're here and keep you busy until I can in join the conversation.  
+
+<div class="ui raised centered container segment w-100">
     <iframe
         allow="microphone;"
         width="100%"
@@ -26,3 +26,15 @@ If you need help with anything or know of a project or position you think I migh
         src="https://console.dialogflow.com/api-client/demo/embedded/fe93bd94-dd8c-4914-97dc-6dcdf95ec501">
     </iframe>
 </div>
+<br>
+<br>
+
+___
+
+<br>
+<br>
+
+# Also, you can read my blog if you'd like, [I :heart: Boise](/blog)
+
+<br>
+<br>
