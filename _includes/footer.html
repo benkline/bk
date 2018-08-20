@@ -1,8 +1,7 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="ui basic segment">
-      <h3>Contact me:</h3>
+      <h2>Contact me:</h2>
       <ul class="contact-list">
         {%- if site.email -%}
         <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
@@ -12,6 +11,5 @@
         {%- endif -%}
       </ul>
         {%- include social.html -%}
-    </div>
 
 </footer>
