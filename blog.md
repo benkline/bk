@@ -4,4 +4,4 @@ title:  Ben's Blog
 permalink: /blog/
 icon: keyboard
 ---
-# I :heart: Boise
+# I <span>&#10084;&#65039;</span> Boise

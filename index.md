@@ -9,7 +9,7 @@ layout: default
 ---
 <img class="img-wrap" src="/assets/images/bk-logo.png">
 
-# Hi! :smiley:
+# Hi! <span style='font-size:100px;'>&#128512;</span>
 
 I'm Ben Kline, a freelance developer, instructional designer, and multimedia producer. This is my bio-site.
 
